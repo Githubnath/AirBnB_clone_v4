@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Nathaniel Emenike - [Github](https://github.com/Githubnath) / [Twitter](https://twitter.com/EngrNath3)  
-Nzemeka Akponor - [Github](https://github.com/Badpet03) / [Twitter](https://twitter.com/badpet2010)  
+Nathaniel Emenike ; [Github](https://github.com/Githubnath) / [Twitter](https://twitter.com/EngrNath3)  
+Nzemeka Akponor ; [Github](https://github.com/Badpet03) / [Twitter](https://twitter.com/badpet2010)  
 
 Second part of Airbnb: Joann Vuong
 ## License
